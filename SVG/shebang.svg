@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64">
+	<path id="background" fill="black" d="m 0,0 v 64 h 64 v -64 z" />
+	<path id="shadow" fill="red" d="m 17,17.375 v 6 h -6 v 6 h 6 v 6 h -6 v 6 h 6 v 6 h 6 v -6 h 6 v 6 h 6 v -6 h 6 v -6 h -6 v -6 h 6 v -6 h -6 v -6 h -6 v 6 h -6 v -6 z m 30,0 v 18 h 6 v -18 z m -24,12 h 6 v 6 h -6 z m 24,12 v 6 h 6 v -6 z" />
+	<path id="drawing" fill="white" d="m 17,16.625 v 6 h -6 v 6 h 6 v 6 h -6 v 6 h 6 v 6 h 6 v -6 h 6 v 6 h 6 v -6 h 6 v -6 h -6 v -6 h 6 v -6 h -6 v -6 h -6 v 6 h -6 v -6 z m 30,0 v 18 h 6 v -18 z m -24,12 h 6 v 6 h -6 z m 24,12 v 6 h 6 v -6 z" />
+</svg>

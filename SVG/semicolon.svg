@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64">
+	<path id="background" fill="black" d="m 0,0 v 64 h 64 v -64 z" />
+	<path id="shadow" fill="red" d="m 26,11.375 v 12 h 12 v -12 z m 0,18 v 12 h 6 v 6 h 6 v -18 z m 6,18 h -6 v 6 h 6 z" />
+	<path id="drawing" fill="white" d="m 26,10.625 v 12 h 12 v -12 z m 0,18 v 12 h 6 v 6 h 6 v -18 z m 6,18 h -6 v 6 h 6 z" />
+</svg>

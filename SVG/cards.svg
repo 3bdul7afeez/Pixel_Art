@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64">
+	<path id="background" fill="black" d="m 0,0 v 64 h 64 v -64 z" />
+	<path id="hshadow" fill="white" d="m 19,16.5 v 2 h -2 v 6 h 2 v 2 h 2 v 2 h 2 v 2 h 2 v -2 h 2 v -2 h 2 v -2 h 2 v -6 h -2 v -2 h -4 v 2 h -2 v -2 z" />
+	<path id="hearts" fill="red" d="m 19,16 v 2 h -2 v 6 h 2 v 2 h 2 v 2 h 2 v 2 h 2 v -2 h 2 v -2 h 2 v -2 h 2 v -6 h -2 v -2 h -4 v 2 h -2 v -2 z" />
+	<path id="sshadow" fill="red" d="m 39,16.5 v 2 h -2 v 2 h -2 v 2 h -2 v 4 h 2 v 2 h 4 v -2 h 2 v 2 h 4 v -2 h 2 v -4 h -2 v -2 h -2 v -2 h -2 v -2 z m 2,12 h -2 v 2 h -2 v 2 h 6 v -2 h -2 z" />
+	<path id="spades" fill="white" d="m 39,16 v 2 h -2 v 2 h -2 v 2 h -2 v 4 h 2 v 2 h 4 v -2 h 2 v 2 h 4 v -2 h 2 v -4 h -2 v -2 h -2 v -2 h -2 v -2 z m 2,12 h -2 v 2 h -2 v 2 h 6 v -2 h -2 z" />
+	<path id="dshadow" fill="white" d="m 39,34.5 v 2 h -2 v 2 h -2 v 2 h -2 v 2 h 2 v 2 h 2 v 2 h 2 v 2 h 2 v -2 h 2 v -2 h 2 v -2 h 2 v -2 h -2 v -2 h -2 v -2 h -2 v -2 z" />
+	<path id="diamonds" fill="red" d="m 39,34 v 2 h -2 v 2 h -2 v 2 h -2 v 2 h 2 v 2 h 2 v 2 h 2 v 2 h 2 v -2 h 2 v -2 h 2 v -2 h 2 v -2 h -2 v -2 h -2 v -2 h -2 v -2 z" />
+	<path id="cshadow" fill="red" d="m 23,32.5 v 2 h -2 v 4 h 2 v 2 h -2 v -2 h -4 v 4 h 2 v 2 h 4 v -2 h 2 v 2 h 4 v -2 h 2 v -4 h -4 v 2 h -2 v -2 h 2 v -4 h -2 v -2 z m 2,12 h -2 v 2 h -2 v 2 h 6 v -2 h -2 z" />
+	<path id="clubs" fill="white" d="m 23,32 v 2 h -2 v 4 h 2 v 2 h -2 v -2 h -4 v 4 h 2 v 2 h 4 v -2 h 2 v 2 h 4 v -2 h 2 v -4 h -4 v 2 h -2 v -2 h 2 v -4 h -2 v -2 z m 2,12 h -2 v 2 h -2 v 2 h 6 v -2 h -2 z" />
+</svg>
